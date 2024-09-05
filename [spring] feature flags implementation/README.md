@@ -1,0 +1,4 @@
+- https://alternative-spaces.com/blog/introduction-to-feature-flags-in-java-using-the-spring-boot-framework/
+- https://www.baeldung.com/spring-feature-flags
+- https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-spring-boot?tabs=spring-boot-3
+- 
